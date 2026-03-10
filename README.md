@@ -27,3 +27,8 @@ forEach() → Loops through the array but does not return a new array.
 Answer
 <br>
 An arrow function is a shorter way to write a function in JavaScript using => syntax.
+
+### 5. What are template literals?
+Answer:
+<br>
+Template literals are a way to create strings using backticks ( ) and insert variables using ${} in JavaScript.
