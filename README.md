@@ -22,3 +22,8 @@ filter() → Creates a new array with elements that pass a condition.
 <br>
 forEach() → Loops through the array but does not return a new array.
 
+
+### 4. What is an arrow function?
+Answer
+<br>
+An arrow function is a shorter way to write a function in JavaScript using => syntax.
