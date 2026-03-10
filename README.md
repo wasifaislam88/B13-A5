@@ -12,3 +12,13 @@ const → Block-scoped; cannot be redeclared or reassigned.
 Answer:
 <br>
 The spread operator (...) in JavaScript is used to expand elements of an array or object into individual items.
+
+### 3. What is the difference between map(), filter(), and forEach()?
+Answer:
+<br>
+map() → Creates a new array by transforming each element.
+<br>
+filter() → Creates a new array with elements that pass a condition.
+<br>
+forEach() → Loops through the array but does not return a new array.
+
