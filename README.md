@@ -7,3 +7,8 @@ var → Function-scoped; can be redeclared and reassigned.
 let → Block-scoped; cannot be redeclared but can be reassigned.
 <br>
 const → Block-scoped; cannot be redeclared or reassigned.
+
+### 2. What is the spread operator (...)?
+Answer:
+<br>
+The spread operator (...) in JavaScript is used to expand elements of an array or object into individual items.
